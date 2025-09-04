@@ -12,9 +12,14 @@ A junção dessas trajetórias — a visão estratégica de gestão adquirida co
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeniseGrassi&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### Projetos
+### Projetos em Destaque
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DeniseGrassi&repo=whatsup_cloneTwitter.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DeniseGrassi&repo=whatsup_cloneTwitter&theme=dark)](https://github.com/DeniseGrassi/whatsup_cloneTwitter)
+
+---
+### Outros Projetos
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DeniseGrassi&repo=bookstore&theme=dark)](https://github.com/DeniseGrassi/bookstore)
 
 
 ### Linguagens utilizadas
