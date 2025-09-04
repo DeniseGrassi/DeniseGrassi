@@ -14,7 +14,7 @@ A junção dessas trajetórias — a visão estratégica de gestão adquirida co
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DeniseGrassi&repo=DeniseGrassi.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DeniseGrassi&repo=whatsup_cloneTwitter.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Linguagens utilizadas
