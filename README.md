@@ -1,8 +1,8 @@
 ## 👋 Olá, eu sou Denise Grassi
 
 ###### Sobre a Denise
-Durante anos fui sócia e gerente de uma loja de moda, liderando finanças, estratégia e suprimentos, com crescimento médio de 10% ao ano.
-Migrei para tecnologia, formando-me em Full Stack Python (EBAC), onde desenvolvi projetos completos como Bookstore e WhatsUp com Django, DRF, React e TypeScript, aplicando Docker, CI/CD e deploy em nuvem.
+Durante anos fui gerente de uma loja de varejo, liderando finanças, estratégia e suprimentos, com crescimento médio de 10% ao ano.
+Migrei para tecnologia, formando em Desenvolvedora Full Stack Python (EBAC), onde desenvolvi projetos completos como Bookstore e WhatsUp com Django, DRF, React e TypeScript, aplicando Docker, CI/CD e deploy em nuvem.
 Atualmente, curso MBA em Engenharia de Software (USP), aprofundando práticas de arquitetura, metodologias ágeis e desenvolvimento escalável.
 
 ### Detalhes
